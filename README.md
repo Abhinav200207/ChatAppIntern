@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+First Clone and run the below repo, then move forward,
 Backend Code Repo : https://github.com/Abhinav200207/ChatAppServerIntern
 
 ## Available Scripts
