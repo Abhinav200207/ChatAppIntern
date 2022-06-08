@@ -44,10 +44,10 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 - Clone the repo
    ```sh
-   git clone https://github.com/<YOUR_USERNAME>/Intern.git
+   git clone https://github.com/<YOUR_USERNAME>/ChatAppIntern.git
    ```
 
-- Open your terminal/cmd in the `Intern` folder
+- Open your terminal/cmd in the `ChatAppIntern` folder
 
 - Install dependencies
    ```sh
